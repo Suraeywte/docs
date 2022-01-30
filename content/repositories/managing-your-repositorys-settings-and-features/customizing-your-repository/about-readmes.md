@@ -1,4 +1,4 @@
----
+Camera /Access
 title: About READMEs
 intro: 'You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it.'
 redirect_from:
@@ -65,4 +65,4 @@ A README should contain only the necessary information for developers to get sta
 ## Further reading
 
 - "[Adding a file to a repository](/articles/adding-a-file-to-a-repository)"
-- 18F's "[Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-readable.md)"
+- 18F's "[Making READMEs readable](https://github.com/18F/open-source-guide/blob/18f-pages/pages/making-readmes-read
